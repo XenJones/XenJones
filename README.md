@@ -1,5 +1,9 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=XenJones&theme=radical&show_icons=true&hide_border=true&count_private=true)
+# Hello 👋
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=XenJones&theme=radical&show_icons=true&hide_border=true&layout=compact)
+## Currently working on 👩‍💻
+- A large ASP.NET core MVC project for scrapyards in the UK
+- My portfolio
 
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=XenJones&theme=radical&hide_border=true)
+## Currently learning 📚
+- ASP.NET core with C#
+- HTML & CSS
